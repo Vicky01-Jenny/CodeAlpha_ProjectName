@@ -5,7 +5,7 @@ Project Overview
 This project performs an Exploratory Data Analysis (EDA) on the classic Iris Dataset, one of the most well-known datasets in data science and machine learning.  
 The goal is to explore, visualize, and understand relationships among flower measurements (sepal and petal lengths and widths) across three Iris species Setosa, Versicolor, and Virginica.
 
-Through this analysis, we uncover hidden patterns, correlations, and distinctions among the species, laying the groundwork for future machine learning tasks such as classification.
+Through this analysis, I was able to uncover hidden patterns, correlations, and distinctions among the species, laying the groundwork for future machine learning tasks such as classification.
 
  Objectives
 - Load and inspect the Iris dataset structure  
